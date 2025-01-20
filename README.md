@@ -2,7 +2,7 @@
   A human movement and Pose recognition for walking, jumping, sitting and standing.
 
 ## Get started
-  -  Create an environment before proceeding (optional)
+  -  Create an environment before proceeding ### (optional)
   -  Run **main.ipynb** file
   - Press "Q" while the window feed is open, make sure the camera sees you
   - Keep pressing "Q" until you see a text in top left corner of the window feed
