@@ -1,6 +1,6 @@
 Human Movement Recognition
 
-A human movement and Pose recognition for walking, jumping, sitting and standing
+A human movement and Pose recognition for walking, jumping, sitting and standing.
 
 Get started
 1. Create an environment before proceeding (optional)
